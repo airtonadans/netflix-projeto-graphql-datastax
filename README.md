@@ -1,4 +1,5 @@
-# 🎓 Netflix Clone using DataStax and GraphQL
+# 🎓 Sócia do Netflix usando DataStax e GraphQL
+**Tutorial em Inglês.**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
