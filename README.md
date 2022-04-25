@@ -1,5 +1,5 @@
 # 🎓 Sócia do Netflix usando DataStax e GraphQL
-**Tutorial em Inglês.**
+**Tutorial em Inglês**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -323,6 +323,6 @@ netlify dev
 ```
 note: (make sure you have installed the netlify command line interface. You can do so by running: `npm install netlify-cli -g`)
 
-## TADA
+## SCREEN
 
 ![image](img/ui.png?raw=true)
